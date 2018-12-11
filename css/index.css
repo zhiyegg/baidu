@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+}
+/*logo部分*/
+.logo{
+	text-align:center;
+}
+/*body部分*/
+.body1{
+	text-align:center;
+}
+.body1 .oneP{
+	line-height:32px;
+	margin-top:55px;
+}
+.oneP a{
+	margin:0 10px;
+}
+.oneP .wy{
+	color:black;
+	text-decoration:none;
+}
+.body1 .txt{
+	width:419px;
+	height:30px;
+	border:1px solid #a9a9a9;
+	vertical-align:middle;
+}
+.body1 .sub{
+	width:91px;
+	height:32px;
+	border:1px solid #a9a9a9;
+	vertical-align:middle;
+	margin-left:4px;
+	background:;
+}
+.body1 .lastP{
+	line-height:100px;
+}
+.lastP a{
+	margin:0 7px;
+}
+/*foot第三部分*/
+.fot{
+	text-align:center;
+	line-height:40px;
+	margin-top:47px;
+}
+.fotP1 a{
+	margin:0 8px;
+}
+.fotP2 {
+	color:#716f7c;
+}
+.fotP2 a{
+	color:#716f7c;
+}
